@@ -19,6 +19,4 @@
 - Using **Tools & Platforms** such as Docker, WSL2, GitHub, Node.js, Composer
 - **Current Focus**: Improving development workflows through containerized environments and optimizing software performance.
 
-## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pedrobarbeiro/))
-- [Twitter]([https://twitter.com/](https://x.com/pedrobarbeiro4))
+
