@@ -1,7 +1,7 @@
 # 👋 Hi there, welcome to my GitHub!
 
 ## About Me
-🌐 I work in **software technical support and development**, combining problem-solving with building impactful solutions.
+🌐 I work as **application engineer and software developer**, combining problem-solving with building impactful solutions.
 
 🌱 Currently exploring **WSL2 and containerized development** environments, especially for Laravel projects.
 
