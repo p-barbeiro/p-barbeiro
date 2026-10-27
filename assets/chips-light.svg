@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="60" viewBox="0 0 840 60" role="img" aria-labelledby="t d">
+  <title id="t">Areas</title>
+  <desc id="d">IoT, Unmanned vehicles, Web, Mobile, Cloud, Self-hosted</desc>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" text-anchor="middle">
+    <g transform="translate(115 16)"><rect x="0.5" y="0.5" width="55" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="28.0" y="24" fill="#1d1d1f">IoT</text></g>
+    <g transform="translate(181 16)"><rect x="0.5" y="0.5" width="170" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="85.5" y="24" fill="#1d1d1f">Unmanned vehicles</text></g>
+    <g transform="translate(362 16)"><rect x="0.5" y="0.5" width="55" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="28.0" y="24" fill="#1d1d1f">Web</text></g>
+    <g transform="translate(428 16)"><rect x="0.5" y="0.5" width="80" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="40.5" y="24" fill="#1d1d1f">Mobile</text></g>
+    <g transform="translate(519 16)"><rect x="0.5" y="0.5" width="72" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="36.5" y="24" fill="#1d1d1f">Cloud</text></g>
+    <g transform="translate(602 16)"><rect x="0.5" y="0.5" width="121" height="35" rx="17.5" fill="#000000" fill-opacity="0.03" stroke="#000000" stroke-opacity="0.14"/><text x="61.0" y="24" fill="#1d1d1f">Self-hosted</text></g>
+  </g>
+</svg>
