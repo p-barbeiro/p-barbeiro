@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="56" viewBox="0 0 840 56" role="img" aria-labelledby="t d">
+  <title id="t">Pedro Barbeiro</title>
+  <desc id="d">Researcher and Software Developer, Leiria, Portugal.</desc>
+  <rect x="0.5" y="0.5" width="839" height="55" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
+  <rect x="24" y="22" width="12" height="12" rx="3" fill="#2997ff"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">
+    <text x="48" y="33" font-weight="600" fill="#f5f5f7">Pedro Barbeiro</text>
+    <text x="816" y="33" text-anchor="end" font-weight="400" fill="#a1a1a6">Researcher and Software Developer  ·  Leiria, Portugal</text>
+  </g>
+</svg>
