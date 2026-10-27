@@ -1,62 +1,76 @@
-<h1 align="center">Pedro Barbeiro</h1>
+<div align="center">
 
-<p align="center">
-  Application engineer and software developer<br>
-  MSc student in Computer Science (Mobile Computing) at IPLeiria &middot; Leiria, Portugal
-</p>
+<img width="100%" alt="Pedro Barbeiro" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;section=header&amp;text=Pedro%20Barbeiro&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=38&amp;color=gradient&amp;customColorList=0f2027%2C203a43%2C2c5364&amp;desc=Researcher%20and%20Software%20Developer&amp;descSize=18&amp;descAlignY=60">
 
-<p align="center">
-  <a href="https://github.com/p-barbeiro?tab=repositories">Repositories</a>
-  &middot;
-  <a href="https://github.com/p-barbeiro/portefolio">Portfolio</a>
-</p>
+<img alt="IoT and unmanned vehicles. Web, mobile and cloud. Self-hosted infrastructure." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3500&amp;pause=1200&amp;color=50A3E8&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=30&amp;lines=IoT+and+unmanned+vehicles;Web%2C+mobile+and+cloud;Self-hosted+infrastructure">
 
----
+<br>
 
-## About
+<a href="https://www.linkedin.com/in/pedrobarbeiro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pedrobarbeiro-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<img alt="Location" src="https://img.shields.io/badge/Leiria-Portugal-2c5364?style=for-the-badge">
+<img alt="Education" src="https://img.shields.io/badge/MSc-IPLeiria-203a43?style=for-the-badge">
 
-I build web and software products and care about the full path from idea to a running system: clean code, sensible architecture and reproducible environments. Day to day I work across web development, systems and cloud, and I run a self-hosted homelab where I test what I learn.
+</div>
 
-- Currently focused on containerised development workflows and cloud-native deployment (Docker, Kubernetes)
-- Studying Computer Science at IPLeiria, with an interest in mobile and cloud computing
-- Self-hosting my own infrastructure: Proxmox, LXC, Docker, reverse proxy and backups
-- Outside of tech: musician, and a father of a young family
+<br>
+
+## What I do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>IoT and unmanned vehicles</b><br>
+      Research and systems integration, from device messaging (HTTP, MQTT) to control software.
+    </td>
+    <td width="50%" valign="top">
+      <b>Web applications</b><br>
+      Full-stack development with Vue and Laravel.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Mobile development</b><br>
+      Native apps with Swift and Kotlin.
+    </td>
+    <td width="50%" valign="top">
+      <b>Cloud-native deployment</b><br>
+      Containerised workloads with Docker and Kubernetes.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Self-hosted infrastructure</b><br>
+      Proxmox, LXC and Docker, with reverse proxy, backups and monitoring.
+    </td>
+    <td width="50%" valign="top">
+      <b>Education</b><br>
+      MSc in Computer Science (Mobile Computing) at IPLeiria.
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Tech stack
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,ts,js,php,laravel,python,cs,java,c,swift&theme=dark">
-    <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=vue,ts,js,php,laravel,python,cs,java,c,swift&theme=light">
-  </picture>
-</p>
+<div align="center">
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx,git,github,nodejs,html,css&theme=dark">
-    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx,git,github,nodejs,html,css&theme=light">
-  </picture>
-</p>
+<sub><b>LANGUAGES</b></sub>
 
-| Area | Tools |
-| --- | --- |
-| Web | Vue, TypeScript, JavaScript, PHP (Laravel), HTML/CSS |
-| Backend and systems | Python, C#, Java (Jakarta EE), C, Shell |
-| Mobile | Swift (iOS) |
-| Infrastructure | Docker, Kubernetes, Linux, Proxmox, WSL2, Nginx |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cphp%2Cpython%2Ccs%2Cjava%2Cc%2Cswift%2Ckotlin&amp;theme=dark&amp;perline=9">
+  <img alt="Languages: TypeScript, JavaScript, PHP, Python, C#, Java, C, Swift, Kotlin" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cphp%2Cpython%2Ccs%2Cjava%2Cc%2Cswift%2Ckotlin&amp;theme=light&amp;perline=9">
+</picture>
 
-## Featured projects
+<br><br>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [immich-apple-photos-theme](https://github.com/p-barbeiro/immich-apple-photos-theme) | Apple Photos inspired custom theme for Immich | CSS |
-| [nextcloud-finder-theme](https://github.com/p-barbeiro/nextcloud-finder-theme) | macOS Finder-style theme for the Nextcloud Files app | CSS |
-| [jppb-k8s](https://github.com/p-barbeiro/jppb-k8s) | Kubernetes cloud project: ground control station with admin panel | Vue, Kubernetes |
-| [memory-game](https://github.com/p-barbeiro/memory-game) | Web-based card matching game | Vue |
-| [cinemagic](https://github.com/p-barbeiro/cinemagic) | Cinema management web application | Laravel |
+<sub><b>FRAMEWORKS AND TOOLS</b></sub>
 
-## Get in touch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Claravel%2Cnodejs%2Cdocker%2Ckubernetes%2Clinux%2Cgit&amp;theme=dark&amp;perline=9">
+  <img alt="Frameworks and tools: Vue, Laravel, Node.js, Docker, Kubernetes, Linux, Git" src="https://skillicons.dev/icons?i=vue%2Claravel%2Cnodejs%2Cdocker%2Ckubernetes%2Clinux%2Cgit&amp;theme=light&amp;perline=9">
+</picture>
 
-<a href="https://github.com/p-barbeiro">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-p--barbeiro-181717?logo=github&logoColor=white">
-</a>
+</div>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=gradient&amp;customColorList=0f2027%2C203a43%2C2c5364">
